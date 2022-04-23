@@ -3,7 +3,8 @@
 using namespace std;
 int main()
 {
-	//зміна коду
+	//changes in online repo
+	//Г§Г¬ВіГ­Г  ГЄГ®Г¤Гі
 	double l, T;
 	const double PI = 3.14159;
 	const double g = 9.8;
